@@ -1,0 +1,10 @@
+1.Real Time:
+             calendar time (from 1970.1.1 0:0:0 GMT)
+             clock time | wall clock time | elapsed time (from the start of process)
+
+2.Process Time | CPU Time:
+                            system cpu time
+                            user cpu time
+
+3.Real Time Clock:
+                   date and time
