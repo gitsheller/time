@@ -1,3 +1,5 @@
+About time
+
 1.Real Time:
              calendar time (from 1970.1.1 0:0:0 GMT)
              clock time | wall clock time | elapsed time (from the start of process)
@@ -8,3 +10,6 @@
 
 3.Real Time Clock:
                    date and time
+
+Clock Ticks:
+             clock rate | clock frequency
