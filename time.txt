@@ -18,3 +18,7 @@ Clock Ticks:
 
 real-time clock (RTC):hardware clock -> local time | Coordinated Universal Time (UTC)  daylight saving time (DST)
 system clock:software clock
+
+
+The System Time is the number of seconds since 00:00:00 January 1, 1970 UTC (or more succinctly, the number
+of seconds since 1969).
