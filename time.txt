@@ -13,3 +13,8 @@ About time
 
 Clock Ticks:
              clock rate | clock frequency
+             
+             
+
+real-time clock (RTC):hardware clock -> local time | Coordinated Universal Time (UTC)  daylight saving time (DST)
+system clock:software clock
